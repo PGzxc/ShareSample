@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ShareSample</string>
+    <string name="share_text">分享文本</string>
+    <string name="share_pic">分享图片</string>
+    <string name="share_more_file">分享多个文件</string>
+    <string name="share_weixin">分享至微信</string>
+    <string name="share_qq">分享至QQ</string>
+</resources>
